@@ -1,0 +1,10 @@
+train: ./train
+val: ./valid
+test: ./test
+
+nc: 4
+names: 
+  0: Normal
+  1: SCF type 1
+  2: SCF type 2
+  3: SCF type 3
